@@ -91,3 +91,6 @@ The following are the forecasted gold prices for the coming years:
 ### 5.2 Recommendations
 - **Investment Insight:** Based on the volatility (CV) and forecasting accuracy.
 - **Model Selection:** Suggest the most reliable forecasting model for future gold price predictions.
+
+link to Juypter notebook: [here](https://github.com/rweitzman/AINotebook/blob/main/Gold_prices_Time_series_Forecasting.ipynb)
+
